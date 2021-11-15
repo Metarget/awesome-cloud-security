@@ -2,7 +2,7 @@
 
 This repository is used to collect AWESOME resources on the topic of cloud security found during research. To be exact, this repository is for resources related to TRADITIONAL cloud computing security, excluding cloud native security resources, while you can refer to another [awesome-cloud-native-security](https://github.com/Metarget/awesome-cloud-native-security) repository.
 
-P.S. cloud security is not a new field so there must exist lots of other lists available somewhere. Hence, this repository is only for my own purpose and convenience :)
+P.S. cloud security is not a new field so there must exist lots of other lists available somewhere :)
 
 ## 0 General
 
