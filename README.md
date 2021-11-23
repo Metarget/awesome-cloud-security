@@ -15,3 +15,6 @@ P.S. cloud security is not a new field so there must exist lots of other lists a
 ### 2.1 General
 
 ## 3 Incidents
+
+- [“Secret” Agent Exposes Azure Customers To Unauthorized Code Execution (OMIGOD, 2021-09-14)](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
+    - [ExP: horizon3ai/CVE-2021-38647](https://github.com/horizon3ai/CVE-2021-38647)
